@@ -1,0 +1,1 @@
+{"version":3,"sources":["App.css"],"names":[],"mappings":"AAAA,EACE,qBACF,CACA,KACE,aACF","file":"main.e19f40ca.chunk.css","sourcesContent":["* {\r\n  box-sizing: border-box;\r\n}\r\nbody {\r\n  margin: 20px 0;\r\n}\r\n"]}

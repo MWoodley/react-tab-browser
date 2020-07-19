@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/react-tab-browser/static/css/main.e19f40ca.chunk.css",
+    "main.js": "/react-tab-browser/static/js/main.cfdc5658.chunk.js",
+    "main.js.map": "/react-tab-browser/static/js/main.cfdc5658.chunk.js.map",
+    "runtime-main.js": "/react-tab-browser/static/js/runtime-main.f6d38d48.js",
+    "runtime-main.js.map": "/react-tab-browser/static/js/runtime-main.f6d38d48.js.map",
+    "static/css/2.aec075fc.chunk.css": "/react-tab-browser/static/css/2.aec075fc.chunk.css",
+    "static/js/2.ce6b9f7e.chunk.js": "/react-tab-browser/static/js/2.ce6b9f7e.chunk.js",
+    "static/js/2.ce6b9f7e.chunk.js.map": "/react-tab-browser/static/js/2.ce6b9f7e.chunk.js.map",
+    "index.html": "/react-tab-browser/index.html",
+    "precache-manifest.02b2b0222fdb4d483720ffb1184db27d.js": "/react-tab-browser/precache-manifest.02b2b0222fdb4d483720ffb1184db27d.js",
+    "service-worker.js": "/react-tab-browser/service-worker.js",
+    "static/css/2.aec075fc.chunk.css.map": "/react-tab-browser/static/css/2.aec075fc.chunk.css.map",
+    "static/css/main.e19f40ca.chunk.css.map": "/react-tab-browser/static/css/main.e19f40ca.chunk.css.map",
+    "static/js/2.ce6b9f7e.chunk.js.LICENSE.txt": "/react-tab-browser/static/js/2.ce6b9f7e.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f6d38d48.js",
+    "static/css/2.aec075fc.chunk.css",
+    "static/js/2.ce6b9f7e.chunk.js",
+    "static/css/main.e19f40ca.chunk.css",
+    "static/js/main.cfdc5658.chunk.js"
+  ]
+}
